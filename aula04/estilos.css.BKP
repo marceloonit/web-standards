@@ -18,6 +18,19 @@ img.right { margin:15px 0 15px 25px; }
 
 .centralizar { margin:50px auto; display:block; }
 
-.box1 { background-color:#ff0; margin:20px 10px 50px; border:0; border-top:20px dashed #fc0; padding:20px; width:300px; height:200px; }
+ul a { color:#ff0; }
 
-.box2 { background-color:#ff0; margin:20px 10px 50px; border:0; border-top:20px dashed #fc0; padding:20px; width:300px; height:200px; box-sizing:border-box; }
+ul a:link { color:#ff0; }
+ul a:visited { color:#f00; }
+ul a:hover { color:#f09; }
+ul a:active { color:#909; }
+
+a[href="#capitulo1"] {color:purple;}
+
+#titulo { color:green; }
+#limites h2 { text-shadow: 0 0 20px rgba(0,0,0,1); }
+
+.cor { color:#ff36ab; }
+
+
+h3.cor { font-size:12px; }

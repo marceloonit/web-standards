@@ -1,0 +1,11 @@
+body { background:#E1E1E1; max-width:950px; font-family: 'PT Serif', serif; }
+
+ul { list-style:none; padding:0; margin:0; }
+
+ul li a { text-decoration:none; }
+
+h1 { text-align:center; }
+h1, h2, h3 { text-transform:uppercase; font-family: 'Patua One', cursive; }
+
+.img_right { margin:15px 15px 5px 5px; }
+.img_center { margin:15px auto; display:block; }
