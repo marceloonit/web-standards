@@ -1,0 +1,12 @@
+body {margin: 0;}
+
+.topo, .conteudo, .rodape { float: left; width: 100%; }
+
+
+.topo { background: #eee; margin: 0;}
+
+.menu li { float: right; margin-right: 30px; list-style-type:none; text-transform: capitalize; }
+
+.conteudo { background: #ccc; clear: both; margin-top: 50px; padding: 0 2% 0 2%; box-sizing: border-box; }
+
+.rodape { background: #555; clear: both; margin-top: 50px; }
